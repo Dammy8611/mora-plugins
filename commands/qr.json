@@ -1,0 +1,11 @@
+{
+  "name": "qr",
+  "description": "Generate QR codes from text or URLs and send as images",
+  "author": "Plugin Developer",
+  "email": "dev@plugins.com",
+  "version": "1.0.0",
+  "category": "utility",
+  "requires": ["qrcode"],
+  "tags": ["qr", "qrcode", "generator", "image", "utility"],
+  "lastUpdated": "2025-01-15"
+}

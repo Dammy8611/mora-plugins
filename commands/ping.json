@@ -1,0 +1,11 @@
+{
+  "name": "pingg",
+  "description": "Test bot responsiveness and get latency info",
+  "author": "Bot Developer",
+  "email": "dev@example.com",
+  "version": "1.0.0",
+  "category": "utility",
+  "requires": [],
+  "tags": ["ping", "test", "utility", "latency"],
+  "lastUpdated": "2025-01-15"
+}

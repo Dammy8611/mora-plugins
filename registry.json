@@ -1,0 +1,22 @@
+{
+  "plugins": {
+    "pingg": {
+      "type": "command",
+      "path": "commands/ping.js",
+      "metadata": "commands/ping.json",
+      "docs": "commands/ping.md"
+    },
+    "minimal": {
+      "type": "menu-style",
+      "path": "menu-styles/minimal.js",
+      "metadata": "menu-styles/minimal.json",
+      "docs": "menu-styles/minimal.md"
+    },
+    "qr": {
+      "type": "command",
+      "path": "commands/qr.js",
+      "metadata": "commands/qr.json",
+      "docs": "commands/qr.md"
+    }
+  }
+}

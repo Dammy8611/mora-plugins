@@ -1,0 +1,11 @@
+{
+  "name": "crystal",
+  "description": "A beautiful crystal-themed menu style with elegant borders and symbols",
+  "author": "Style Designer",
+  "email": "designer@example.com",
+  "version": "1.0.0",
+  "category": "menu-style",
+  "requires": [],
+  "tags": ["crystal", "elegant", "borders", "menu", "theme"],
+  "lastUpdated": "2025-01-15"
+}
