@@ -1,5 +1,4 @@
 // commands/qr.js
-const qrcode = require("qrcode");
 const fs = require("fs");
 const path = require("path");
 
@@ -38,6 +37,9 @@ module.exports = {
     }
 
     try {
+      // Require qrcode inside the function after dependency is installed
+      const qrcode = require("qrcode");
+
       // Generate filename with timestamp to avoid conflicts
       const filename = `qr_${Date.now()}.png`;
       const filepath = path.join(tempDir, filename);
